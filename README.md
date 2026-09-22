@@ -61,7 +61,8 @@ This basic circuit is a foundational example used to:
 - Understand digital logic gates using physical/analog components.
 - Learn series circuit behavior.
 - Build intuition before working with logic gate ICs (like the 7408 AND gate IC) or programmable logic.
+## Problem Statement
 
-## Author
-
-Built and documented by Shamini, ECE student.
+Digital logic gates are fundamental building blocks of all electronic and computing systems, yet learners are often introduced to them only through simulations or ready-made ICs, with little hands-on understanding of how the underlying logic is physically realized through circuit behavior.
+There is a need for a simple, low-cost, hardware-based demonstration that helps students visually and physically understand how logic gates work at the circuit level — using basic components rather than abstract truth tables or pre-packaged IC chips.
+This prototype addresses that gap by implementing a 2-input AND gate using discrete components (push-button switches, a resistor, and an LED) on a perfboard. By manually operating the switches and observing the LED's response, users can directly experience how a series circuit connection produces AND gate behavior — where the output is active only when all inputs are simultaneously active — reinforcing core digital logic concepts through a tangible, hands-on approach.
