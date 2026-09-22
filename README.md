@@ -45,7 +45,7 @@ The two push-button switches are connected **in series** between the power suppl
 
 **One or both switches released — LED OFF (Output = 0):**
 
-![AND Gate - LED OFF](images/and-gate-off.png)
+## off ![off](off.png)
 
 ## How It Works
 
